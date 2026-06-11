@@ -104,8 +104,8 @@ Sous-réseau privé : **192.168.10.0 /24**
 ## Livrables
 
 - 📊 [Plan d'adressage et configuration réseau](docs/01-configuration-reseau.md) — version Markdown du plan technique
-- 📁 *Fichier Packet Tracer (.pkt) — à ajouter*
-- 🖼️ *Capture de la topologie complète — à ajouter*
+- 📁 *Fichier Packet Tracer (.pkt)
+- 🖼️ *Capture de la topologie complète
 
 ## Liens
 
